@@ -21,7 +21,7 @@
 title: Intro to DH Portfolio
 email: ruzhen.zhang@tufts.edu
 description: >- # this means to ignore newlines until "baseurl:"
-This is my intro to digital humanities course portfolio. 
+
 baseurl: "/Anna-Zhang-intro-dh-portfolio" # CHANGE THIS! the subpath of your site, e.g. /blog
 url: "https://AnnaZhang05.github.io/" # CHANGE THIS the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:categories/:year/:month/:day/:title:output_ext
