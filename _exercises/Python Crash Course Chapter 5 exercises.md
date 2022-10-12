@@ -1,3 +1,9 @@
+---
+layout: page
+title: Python Crash Course Chapter 5 Exercises
+description: Codes from Chapter 5 Exercises in Python Crash Course, week 5. 
+---
+
 ## 5-1
 
 
