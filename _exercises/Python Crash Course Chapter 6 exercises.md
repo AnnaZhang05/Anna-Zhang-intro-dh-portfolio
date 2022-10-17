@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Python Crash Course Chapter 6 Exercises
-description: Codes from Chapter 6 Exercises in Python Crash Course, week 5. 
+description: Codes from Chapter 6 Exercises in Python Crash Course, week 6. 
 ---
 
 ## 6-1
