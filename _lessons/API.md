@@ -3,6 +3,7 @@ layout: page
 title: Creating Web APIs with Python and Flask
 description: This lesson goes over the basic processes for web API using Python and Flask, which makes data access easier for users. 
 ---
+
 ## Source
 [Brandon Walsh, "Creating Web APIs with Python and Flask," Programming Historian (2018), https://doi.org/10.46430/phen0072.](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask#setting-up)
 
@@ -18,6 +19,7 @@ After all, the lesson proved to be just right for a medium difficulty in my opin
 ## Code
 
 ## Setting up Flask and JSON for data fetching
+
 ```python
 import flask
 from flask import request, jsonify
@@ -87,3 +89,4 @@ def api_filter():
 
     return jsonify(results)
 app.run()
+```
