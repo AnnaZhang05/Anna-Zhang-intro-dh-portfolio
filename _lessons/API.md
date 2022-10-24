@@ -14,7 +14,9 @@ I actually came across this lesson after a few trials and many more errors. I in
 
 However, since the Web API lesson required minimal setup programs (mainly anaconda and VS Code), I was able to tackle it at a better rate. The overall structure of the lesson going from API introductions to hands-on code then explanations of the code was really helpful, since I was able to find answers to some of my error codes in the lesson itself. 
 
-After all, the lesson proved to be just right for a medium difficulty in my opinion, it required some thinking and problem solving without breaking my humanity-student-spirit. The relatively easier start in this lesson also gave me enough motivation to power through and learn more of the actual coding contents in regards to APIs.  
+After all, the lesson proved to be just right for a medium difficulty in my opinion, it required some thinking and problem solving without breaking my humanity-student-spirit. The relatively easier start in this lesson also gave me enough motivation to power through and learn more of the actual coding contents in regards to APIs. 
+
+Additional discussion: after learning the basics of fetching data with APIs, I can think of a few ways this tool could be used further in my own research or other people's works. For my own research, the API's ability to fetch and retrieve data from larger collections of information would allow me to access large databases such as the Tisch Special Collections or DCA. Fetching specific excerpts from these large databases, I would be able to critically deliver a small thematic topic to another platform for presentation. For other users, this tool unlocks many possibilities for all the different kinds of data they can pull and deliver to specific crowds with more peticular topics. 
 
 ## Code
 
