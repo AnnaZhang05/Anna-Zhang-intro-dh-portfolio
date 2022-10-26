@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fourth Reading Reflection"
-date:   "2022-10-28"
+date:   "2022-10-26"
 categories: jekyll update
 ---
 
