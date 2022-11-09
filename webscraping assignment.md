@@ -1,8 +1,3 @@
----
-layout: page
-title: web scraping assignment 
-description: Notebook with code for web scraping assignment homework. From week 9, Fall '22.
----
 # Webscraping with `BeautifulSoup`
 
 In this assignment, you are tasked with:
