@@ -1,3 +1,4 @@
+# Final Project 
 # Introduction
 This is my final project on analyzing the Hou Han Shu from Han dynasty of ancient China using Stanza treebank parsing, Ugarit translation alighment, and source translation from Frederich Hirth's book China and the Roman Orient: researches into their ancient and mediaeval relations as represented in old Chinese records. In this project, I specifically target Volume 88: Treatise on the Western Regions, since its within my interests of comparative history between ancient China and the west. I chose the fourth paragrpah from the passage detailing "Daqin guo," the Classical Chinese name for ancient Rome, specifically for  its details on international trade and foreign interactions between Han dynasty China and different empires relating to Rome. 
 
